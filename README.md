@@ -130,7 +130,7 @@
 
 # \# 🏗️ Architecture
 
-
+![Architecture](image.png)
 
 
 
